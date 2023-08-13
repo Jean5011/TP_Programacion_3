@@ -1,0 +1,6 @@
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Entidades\bin\Debug\Entidades.dll
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Entidades\obj\Debug\Entidades.dll
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,9 @@
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\obj\Debug\Dao.csproj.AssemblyReference.cache
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\obj\Debug\Dao.csproj.CoreCompileInputs.cache
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\bin\Debug\Dao.dll
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\bin\Debug\Dao.pdb
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\bin\Debug\Entidades.dll
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\bin\Debug\Entidades.pdb
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\obj\Debug\Dao.csproj.CopyComplete
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\obj\Debug\Dao.dll
+C:\Users\Jean Pierre\Desktop\tp pro\Tp8\TP8\Dao\obj\Debug\Dao.pdb
